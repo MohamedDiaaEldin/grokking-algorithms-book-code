@@ -56,3 +56,24 @@ def recursive_binary_search(arr, target):
 # print(recursive_binary_search([ -200, -50, 1, 30], 30) )
 # print(recursive_binary_search([ -200, -50, 1, 30], -50) )
 # print(recursive_binary_search([ -200, -50, 1, 30], -200) )
+
+##### Quick Sort Ex. 
+
+'''
+EXERCISES
+How long would each of these operations take in Big O notation?
+
+4.5 Printing the value of each element in an array.  
+= O(n)
+4.6 Doubling the value of each element in an array.
+= O(n)
+4.7 Doubling the value of just the first element in an array.
+O(1)
+4.8 Creating a multiplication table with all the elements in the array. So
+if your array is [2, 3, 7, 8, 10], you first multiply every element by 2,
+then multiply every element by 3, then by 7, and so on.
+o(n^2)
+'''
+
+
+
